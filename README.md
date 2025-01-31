@@ -11,7 +11,7 @@ https://github.com/LCW0NJUPT/rdpwrap-autoupdate
 https://github.com/LCW0NJUPT/Udisk-DOS  
 ## 3. Display the Broadcom CPU and GPU information of Raspberry Pi 3/4
 https://github.com/LCW0NJUPT/my-pi-info  
-## 4. How to install ZLUDA in windowsPC and use it in pytorch(cuda)
+## 4. How to install ZLUDA in windowsPC and use it in pytorch(cuda) (from AMD rocm to CUDA)
 https://lcw0njupt.github.io/zluda/zluda.htm  
 
 ------------------------------------------------------  
