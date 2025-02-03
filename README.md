@@ -20,7 +20,7 @@ I'm a passionate developer with a keen interest in hardware/software development
 - Find me in my Github Project Issues
 
 ## 🔥 Some Of My Projects Here:
-Here are some of my notable projects:
+Here are some of my notable projects:  
 **1. Rdpwrap autoupdate for latest 'rdpwrap.ini' file (Windows Home Edition)**  
 [rdpwrap-autoupdate](https://github.com/LCW0NJUPT/rdpwrap-autoupdate)    
 
