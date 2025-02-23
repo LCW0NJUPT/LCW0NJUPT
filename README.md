@@ -3,7 +3,8 @@
 Welcome to my GitHub profile! Here's a little about me:
 
 ## 🚀 About Me
-I'm a passionate developer with a keen interest in hardware/software development and technology. I enjoy learning new things and applying my knowledge to solve real-world problems.
+I'm a passionate developer with a keen interest in hardware/software development and technology.   
+I enjoy learning new things and applying my knowledge to solve real-world problems.  
 
 ## 🔧 Technologies & Tools
 - Programming Languages: Python, C, Java, C++
@@ -32,6 +33,9 @@ Here are some of my notable projects:
 
 **4. How to install ZLUDA in windowsPC and use it in pytorch(cuda) (from AMD rocm to CUDA)**  
 [zluda+pytorch in windows](https://lcw0njupt.github.io/zluda/zluda.htm)   
+
+**5. DeepSeek LLM Local Deployment Compute Capability Calculator**  
+[dscalculator](https://lcw0njupt.github.io/calculator/dscalculator.html)  
 
 ## 🌱 Currently Learning
 - Advanced algorithms and data structures
