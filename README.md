@@ -1,6 +1,8 @@
-# Hi there, I'm LCW 👋
+# Hi there, I'm LCW 👋[![GitHub Stars](https://img.shields.io/github/stars/LCW0NJUPT/LCW0NJUPT.svg?style=social)](https://github.com/LCW0NJUPT/LCW0NJUPT/stargazers)
+
 
 Welcome to my GitHub profile! Here's a little about me:
+
 
 ## 🚀 About Me
 I'm a passionate developer with a keen interest in hardware/software development and technology.   
@@ -23,19 +25,24 @@ I enjoy learning new things and applying my knowledge to solve real-world proble
 ## 🔥 Some Of My Projects Here:
 Here are some of my notable projects:  
 **1. Rdpwrap autoupdate for latest 'rdpwrap.ini' file (Windows Home Edition)**  
-[rdpwrap-autoupdate](https://github.com/LCW0NJUPT/rdpwrap-autoupdate)    
+[rdpwrap-autoupdate](https://github.com/LCW0NJUPT/rdpwrap-autoupdate)
+[![GitHub Stars](https://img.shields.io/github/stars/LCW0NJUPT/rdpwrap-autoupdate.svg?style=social)](https://github.com/LCW0NJUPT/rdpwrap-autoupdate/stargazers)
 
 **2. Change Mac Address for your hardware network card**  
-[Udisk-DOS](https://github.com/LCW0NJUPT/Udisk-DOS)   
+[Udisk-DOS](https://github.com/LCW0NJUPT/Udisk-DOS)
+[![GitHub Stars](https://img.shields.io/github/stars/LCW0NJUPT/Udisk-DOS.svg?style=social)](https://github.com/LCW0NJUPT/Udisk-DOS/stargazers)
 
 **3. Display the Broadcom CPU and GPU information of Raspberry Pi 3/4**  
-[my-pi-info](https://github.com/LCW0NJUPT/my-pi-info)    
+[my-pi-info](https://github.com/LCW0NJUPT/my-pi-info)
+[![GitHub Stars](https://img.shields.io/github/stars/LCW0NJUPT/my-pi-info.svg?style=social)](https://github.com/LCW0NJUPT/my-pi-info/stargazers)
 
 **4. How to install ZLUDA in windowsPC and use it in pytorch(cuda) (from AMD rocm to CUDA)**  
-[zluda+pytorch in windows](https://lcw0njupt.github.io/zluda/zluda.htm)   
+[zluda+pytorch in windows](https://lcw0njupt.github.io/zluda/zluda.htm)
+[![GitHub Stars](https://img.shields.io/github/stars/LCW0NJUPT/lcw0njupt.github.io.svg?style=social)](https://github.com/LCW0NJUPT/lcw0njupt.github.io/stargazers)
 
 **5. DeepSeek LLM Local Deployment Compute Capability Calculator**  
-[dscalculator](https://lcw0njupt.github.io/calculator/dscalculator.html)  
+[dscalculator](https://lcw0njupt.github.io/calculator/dscalculator.html)
+[![GitHub Stars](https://img.shields.io/github/stars/LCW0NJUPT/lcw0njupt.github.io.svg?style=social)](https://github.com/LCW0NJUPT/lcw0njupt.github.io/stargazers)
 
 ## 🌱 Currently Learning
 - Advanced algorithms and data structures
