@@ -41,8 +41,8 @@ Here are some of my notable projects:
 [![GitHub Stars](https://img.shields.io/github/stars/LCW0NJUPT/lcw0njupt.github.io.svg?style=social)](https://github.com/LCW0NJUPT/lcw0njupt.github.io/stargazers)
 
 **5. DeepSeek LLM Local Deployment Compute Capability Calculator**  
-[dscalculator](https://lcw0njupt.github.io/calculator/dscalculator.html)
-[![GitHub Stars](https://img.shields.io/github/stars/LCW0NJUPT/lcw0njupt.github.io.svg?style=social)](https://github.com/LCW0NJUPT/lcw0njupt.github.io/stargazers)
+[LLMcalculator](https://lcw0njupt.github.io/LLMcalculator/index.html)
+[![GitHub Stars](https://img.shields.io/github/stars/LCW0NJUPT/LLMcalculator.svg?style=social)](https://github.com/LCW0NJUPT/LLMcalculator/stargazers)
 
 ## 🌱 Currently Learning
 - Advanced algorithms and data structures
